@@ -1,4 +1,4 @@
 #ignore pickle data
 
 /tmp
-.pickle
+*.pickle
